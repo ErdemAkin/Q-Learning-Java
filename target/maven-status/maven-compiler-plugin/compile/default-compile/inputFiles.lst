@@ -1,0 +1,13 @@
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Enum/WallType.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Application/Controller/PrimaryController.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Model/Maze.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Application/Service/CreateMazeService.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Model/Row.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Application/Exception/SquareNotFoundException.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/App.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Model/QMatris.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Application/Service/SolveMazeService.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Config/ConfigProvider.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Model/RMatris.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/module-info.java
+/Users/alierdemakin/Projects/Java/Q-Learning/src/main/java/com/learningway/qlearning/Model/Square.java
